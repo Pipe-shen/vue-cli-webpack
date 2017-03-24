@@ -1,0 +1,22 @@
+{
+  "name": "vue-webpack",
+  "description": "A Vue.js project",
+  "main": "",
+  "authors": [
+    "pipe <yys320carter@163.com>"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "1.9.1",
+    "swiper": "^3.4.2",
+    "bootstrap": "3.3.7"
+  }
+}
